@@ -1,8 +1,5 @@
 ## Hi there! 👋 I am QiQi.
 
-<!--
-**qiqi0211/qiqi0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🎓 **Senior at Wellesley College** studying Data Science  
 🔭 **Aspiring Data Scientist** | Machine Learning & Product Enthusiast
 
