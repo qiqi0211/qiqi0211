@@ -44,33 +44,18 @@ Right now, I'm focusing on building machine learning models and diving deeper in
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-### 🚀 Other Noteworthy Projects
-
-*   **[MovieHub - Personalized Movie Recommender]([Link])**
-    *   **Description:** Developed a recommendation engine using collaborative filtering to suggest movies based on user preferences.
-    *   **Tech Stack:** Python, Flask, scikit-learn
-    *   **Learnings:** Building recommendation systems and deploying applications.
-*   **[LeetTracker - LeetCode Progress Tracker]([Link])**
-    *   **Description:** A web app to track and visualize LeetCode problem-solving progress over time.
-    *   **Tech Stack:** React, Firebase, Chart.js
-    *   **Learnings:** Frontend development, data visualization, and API integration.
-
----
-
 ### 📊 GitHub Stats
 
 <!-- Change YOUR_GITHUB_USERNAME to your real GitHub username -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial" alt="Lee's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial" alt="Lee's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=qiqi0211&show_icons=true&theme=radial" alt="QiQi's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiqi0211&layout=compact&theme=radial" alt="QiQi's Top Languages" width="48%" />
 </p>
 
 ---
 
 ### 📫 How to Reach Me
-*   **Email:** [youremail@domain.com](mailto:youremail@domain.com)
-*   **LinkedIn:** [linkedin.com/in/yourprofile]([Your LinkedIn Link])
+*   **Email:** [liqiqi6473@gmail.com](mailto:liqiqi6473@gmail.com)
+*   **LinkedIn:** [linkedin.com/in/qi-qi-li]([[Your LinkedIn Link](https://www.linkedin.com/in/qi-qi-li/)])
 
-✨ **Fun Fact:** A matcha latte is my favorite coding accessory! You can usually find me sipping one while listening to a Lo-Fi playlist, engaging in fun-yet-charged discussions on AI ethics with my Women in Tech group, or decompressing with a quick TikTok scroll.
+✨ **Fun Fact:** I traveled to 20 countries in 4 months while I was studying abroad in Copenhagen, Denmark.
