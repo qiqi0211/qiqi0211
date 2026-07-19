@@ -37,7 +37,7 @@ Right now, I'm focusing on building machine learning models and diving deeper in
 
 ✨ **Fun Fact:** I traveled to 20 countries in 4 months while I was studying abroad in Copenhagen, Denmark.
 
-#### What I am learning
+### What I am Learning
 * **AI Agents**
 * **Retrieval-Augmented Generation (RAG)**
 
