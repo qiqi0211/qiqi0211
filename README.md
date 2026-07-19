@@ -44,18 +44,8 @@ Right now, I'm focusing on building machine learning models and diving deeper in
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📊 GitHub Stats
-
-<!-- Change YOUR_GITHUB_USERNAME to your real GitHub username -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=qiqi0211&show_icons=true&theme=radial" alt="QiQi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiqi0211&layout=compact&theme=radial" alt="QiQi's Top Languages" width="48%" />
-</p>
-
----
-
 ### 📫 How to Reach Me
 *   **Email:** [liqiqi6473@gmail.com](mailto:liqiqi6473@gmail.com)
-*   **LinkedIn:** [linkedin.com/in/qi-qi-li]([[Your LinkedIn Link](https://www.linkedin.com/in/qi-qi-li/)])
+*   **LinkedIn:** ([[Your LinkedIn Link](https://www.linkedin.com/in/qi-qi-li/)])
 
 ✨ **Fun Fact:** I traveled to 20 countries in 4 months while I was studying abroad in Copenhagen, Denmark.
