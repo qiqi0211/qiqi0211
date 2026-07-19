@@ -36,3 +36,8 @@ Right now, I'm focusing on building machine learning models and diving deeper in
 *   **LinkedIn:** ([[LinkedIn Link](https://www.linkedin.com/in/qi-qi-li/)])
 
 ✨ **Fun Fact:** I traveled to 20 countries in 4 months while I was studying abroad in Copenhagen, Denmark.
+
+#### What I am learning
+* **AI Agents**
+* **Retrieval-Augmented Generation (RAG)**
+
