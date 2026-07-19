@@ -44,6 +44,8 @@ Right now, I'm focusing on building machine learning models and diving deeper in
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
+
 ### 📫 How to Reach Me
 *   **Email:** [liqiqi6473@gmail.com](mailto:liqiqi6473@gmail.com)
 *   **LinkedIn:** ([[Your LinkedIn Link](https://www.linkedin.com/in/qi-qi-li/)])
